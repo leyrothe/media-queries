@@ -20,7 +20,7 @@ body {
 }
 
 .navigation {
-  /*specify navigation container*/
+  /*navigation container*/
   position: sticky;
   width: 95%;
   top: 0;
